@@ -24,7 +24,7 @@ Blog preview card é como se fosse um cartão de visita. Projeto do Front-End Me
 ## Como ficou o projeto online
 
 <p align="center">
-  <img alt="projeto Blog card online" src="github/tela.gif" width="100%">
+  <img alt="projeto Blog card online" src=".github/tela.gif" width="100%">
 </p>
 
 <div align="center">
